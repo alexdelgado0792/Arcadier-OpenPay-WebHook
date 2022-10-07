@@ -6,8 +6,6 @@ The file structure of each Plug-in's source code:
 
 >
     ├── admin                    
-        ├── ADevTools
-            ├── CustomLog
         ├── html
         ├── css
         └── scripts                
